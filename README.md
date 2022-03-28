@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SaMKL, IEEE J-STARS, 2021
 ---
 ## Structure-Aware Multikernel Learning for Hyperspectral Image Classification
