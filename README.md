@@ -1,5 +1,5 @@
 
-# SaMKL, IEEE J-STARS, 2021
+#### SaMKL | IEEE J-STARS 2021 | HSI Feature Extraction & Classification
 ---
 ## Structure-Aware Multikernel Learning for Hyperspectral Image Classification
 
